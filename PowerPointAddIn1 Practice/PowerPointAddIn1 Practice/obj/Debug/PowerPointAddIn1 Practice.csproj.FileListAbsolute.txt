@@ -1,0 +1,18 @@
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.pdb
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.dll.manifest
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\PowerPointAddIn1 Practice.vsto
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.dll
+c:\users\jacob\documents\visual studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1 Practice.pdb
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.quizzlyRibbon.resources
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\obj\Debug\PowerPointAddIn1_Practice.loginDialog.resources
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jacob\Documents\Visual Studio 2017\Projects\PowerPointAddIn1 Practice\PowerPointAddIn1 Practice\bin\Debug\Newtonsoft.Json.xml
